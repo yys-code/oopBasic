@@ -1,5 +1,6 @@
 <?php
 
+//Make a calculator
 class Calculetion{
 
     function add($a,$b){
@@ -15,4 +16,7 @@ class Calculetion{
         echo "Division ". ($a/$b);
     }
 }
+//End calculator
+
+
 
