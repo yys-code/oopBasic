@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d97c064-c573-46b3-ac56-e227e55459cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03-construct-method.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-destructtor.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-construct and destruct work.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/function.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/function.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +31,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -53,7 +48,9 @@
       <option name="presentableId" value="Default" />
       <updated>1607644847253</updated>
       <workItem from="1607644848344" duration="2530000" />
-      <workItem from="1607647956671" duration="15252000" />
+      <workItem from="1607647956671" duration="15425000" />
+      <workItem from="1607682843941" duration="3406000" />
+      <workItem from="1607735206778" duration="3235000" />
     </task>
     <servers />
   </component>
@@ -70,6 +67,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
